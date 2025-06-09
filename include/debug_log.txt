@@ -1,0 +1,6 @@
+Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNzQwMDI0MDg2LCJleHAiOjE3NDAwMjc2ODYsIm5iZiI6MTc0MDAyNDA4NiwianRpIjoiNWt3VnJGWVQwc0tSak9BTCIsInN1YiI6IjEiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.N2GPJPBNl_l3aZi2SJy5Ybk7-V7_WkseyyU273p5Zgk
+    [user] => reseler
+    [email] => reselr@g.com
+)
